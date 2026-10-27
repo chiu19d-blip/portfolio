@@ -23,20 +23,20 @@ window.SITE_CONFIG = {
   heroPosition:  'center 30%',                  // which part of the hero photo stays in view on desktop (e.g. 'center top', 'center 40%')
 
   /* ---------- HERO ---------- */
-  heroLine: ['Graphic Design','Branding','Photography','Video Editing','Motion Graphics','3D Design'],
+ 
   heroButton: 'View selected work →',
   stickerHero: ['open for','freelance','✦'],    // round sticker lines
   stickerAbout: 'hello ♡',
 
   /* ---------- MARQUEE STRIPS ---------- */
-  marqueeWords:  ['graphic design','branding','motion','3d','photography'],
+  marqueeWords:  ['graphic design','Thumbnail Design','Logo Design','3d','Photo Editing','Video Editing'],
   marqueePhrase: 'let’s make something good',
 
   /* ---------- ABOUT ---------- */
   about: {
     heading:        'hi, i’m kanika',
     intro:          'I’m Kanika, an independent graphic designer who turns ideas into identities, images and moving pieces. I work with brands and creators who want a clear, memorable look.',
-    philosophyLabel:'Philosophy.',
+   
     philosophy:     'Good design is restrained and intentional. I start with the story, strip away what doesn’t serve it, and let contrast, typography and colour do the work.',
     skillsHeading:  'Skills',
     skills: [
@@ -76,7 +76,7 @@ window.SITE_CONFIG = {
     ctaButton:  'Let’s connect →',
     description:'Independent graphic designer creating identities, images and moving pieces for brands and creators.',
     tagline:    'Creating meaningful visuals with creativity and purpose.',
-    services:   ['Graphic Design','Branding & Visual Identity','Photography','Video Editing','Motion Graphics','3D Design'],
+    services:   ['Graphic Design','Video Editing','Photo Editing','Thumbnail Design'],
     invite:     'Interested in working together? Reach out to discuss a creative project or collaboration.',
     note:       'Designed with creativity.'
   },
