@@ -3,7 +3,7 @@
    Images: put files in assets/images/. If a file is missing, a coloured placeholder is shown.
    Videos: videoUrl may be a local MP4 ("assets/videos/x.mp4"), a direct MP4 URL,
    or a Google Drive share link (embedded via /preview when Drive allows it). */
-const CATEGORIES = ['All','Graphic Design','Branding','Social Media','Photography','Video Editing','Motion Graphics','3D Design'];
+const CATEGORIES = ['All','Graphic Design','Photo Editing','Thumbnail Design','Video Editing','Logo Design','Poster Design'];
 
 const PROJECTS = [
   {id:'p1',title:'Sample Identity System',category:'Branding',description:'Sample layout: logo suite, colour system and stationery mockups. Replace with real work.',thumbnail:'assets/images/p1.jpg',images:['assets/images/p1-a.jpg','assets/images/p1-b.jpg'],videoUrl:'',mediaType:'image',year:2025,software:['Illustrator','Photoshop'],featured:true,size:'wide'},
@@ -17,8 +17,7 @@ const PROJECTS = [
 
 const VIDEOS = [
   {id:'v1',title:'Sample Showreel',category:'Motion Graphics',description:'Add a short description of this film.',thumbnail:'assets/images/v1.jpg',videoUrl:'assets/videos/showreel.mp4'},
-  {id:'v2',title:'Sample Brand Film',category:'Video Editing',description:'Hosted on Google Drive (example link format).',thumbnail:'assets/images/v2.jpg',videoUrl:'https://drive.google.com/file/d/YOUR_FILE_ID/view'},
-  {id:'v3',title:'Sample Teaser',category:'Motion Graphics',description:'No video URL yet, so a placeholder is shown.',thumbnail:'assets/images/v3.jpg',videoUrl:''}
+  {id:'v2',title:'Sample Brand Film',category:'Video Editing',description:'Hosted on Google Drive (example link format).',thumbnail:'assets/images/v2.jpg',videoUrl:'https://drive.google.com/file/d/YOUR_FILE_ID/view'}
 ];
 
 /* ========= DATA LOADING — swap this for a future API call =========
