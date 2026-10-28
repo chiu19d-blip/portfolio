@@ -69,7 +69,7 @@ window.SITE_CONFIG = {
     heading: 'say hi ♡',
     intro:   'Have a project in mind? Let’s talk.',
     instagramLabel: '@kanikasonavne',
-    whatsappLabel:  'WhatsApp +00 000 000 0000'
+    whatsappLabel:  'WhatsApp +91 98344 91801'
   },
 
   /* ---------- FOOTER ---------- */
@@ -79,7 +79,7 @@ window.SITE_CONFIG = {
     ctaButton:  'Let’s connect →',
     description:'Independent graphic designer creating identities, images and moving pieces for brands and creators.',
     tagline:    'Creating meaningful visuals with creativity and purpose.',
-    services:   ['Graphic Design','Video Editing','Photo Editing','Thumbnail Design'],
+    services:   ['Video Editing','Photo Editing','Thumbnail Design'],
     invite:     'Interested in working together? Reach out to discuss a creative project or collaboration.',
     note:       'Designed with creativity.'
   },
@@ -92,7 +92,7 @@ window.SITE_CONFIG = {
     behance:   'https://behance.net/',
     youtube:   'https://youtube.com/',
     pinterest: 'https://pinterest.com/',     // placeholder — paste your Pinterest profile URL
-    whatsapp:  'https://wa.me/0000000000',   // format: https://wa.me/<country code + number>
+    whatsapp:  'https://wa.me/98344 91801',   // format: https://wa.me/<country code + number>
     email:     'mailto:hello@kanikasonavne.com'
   }
 };
