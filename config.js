@@ -61,8 +61,7 @@ window.SITE_CONFIG = {
 
   /* ---------- SECTION TITLES ---------- */
   workHeading: 'selected work ✦',
-  workNote:    'Sample layouts. Replace with real projects in script.js.',
-  filmsHeading:' Videos',
+  filmsHeading:' Videos'
 
   /* ---------- CONTACT ---------- */
   contact: {
