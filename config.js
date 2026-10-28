@@ -41,15 +41,20 @@ window.SITE_CONFIG = {
     philosophy:     'Good design is restrained and intentional. I start with the story, strip away what doesn’t serve it, and let contrast, typography and colour do the work.',
     skillsHeading:  'Skills',
     skills: [
-      'Graphic Design',
+    
       'Poster Design',
       'Logo Design',
       'Thumbnail Design',
-      'Creative Design',
       'Photo Editing',
       'Video Editing',
+         "DaVinci Resolve",
+      "CapCut",
+      "Adobe After Effects",
+      "Adobe Photoshop",
+      " Blender  - Learning"
       'VFX — Currently Learning',
       '3D Modelling — Currently Learning'
+       
     ],
     softwareHeading: 'Software',
     software: ['Photoshop','Illustrator','After Effects','Premiere Pro','Blender'],
