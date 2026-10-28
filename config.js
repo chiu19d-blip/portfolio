@@ -62,7 +62,7 @@ window.SITE_CONFIG = {
 
   /* ---------- SECTION TITLES ---------- */
   workHeading: 'selected work ✦',
-  filmsHeading:' Videos'
+  filmsHeading:' Videos ✦ '
 
   /* ---------- CONTACT ---------- */
   contact: {
