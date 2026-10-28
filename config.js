@@ -35,7 +35,8 @@ window.SITE_CONFIG = {
   /* ---------- ABOUT ---------- */
   about: {
     heading:        'hi, i’m kanika',
-    intro:          'I’m Kanika, an independent graphic designer who turns ideas into identities, images and moving pieces. I work with brands and creators who want a clear, memorable look.',
+    intro:          'Hello, creative souls!
+'I’m a creative and passionate visual designer exploring the world of graphic design, motion graphics, VFX, and animation. I love transforming ideas into engaging visuals and am continuously developing my skills, experimenting with new techniques, and building my creative journey through meaningful design projects.',
    
     philosophy:     'Good design is restrained and intentional. I start with the story, strip away what doesn’t serve it, and let contrast, typography and colour do the work.',
     skillsHeading:  'Skills',
