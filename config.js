@@ -53,7 +53,10 @@ window.SITE_CONFIG = {
     softwareHeading: 'Software',
     software: ['Photoshop','Illustrator','After Effects','Premiere Pro','Blender'],
     experienceHeading: 'Experience',
-    experience: 'Add your years of experience here.'
+    experience: [
+  'Internship – Sahash Organisation (NGO)',
+  'Personal Videos'
+]
   },
 
   /* ---------- SECTION TITLES ---------- */
